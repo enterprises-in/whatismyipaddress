@@ -16,12 +16,12 @@ WhatIsMyIPAddress is a simple and lightweight project designed to quickly detect
 
 ## Documentation
 
-[Documentation](https://whatismyipaddress.vercel.app/docs)
+[Documentation](https://whatismyipaddressinfo.vercel.app/docs)
 
 
 ## Demo
 
-    https://www.whatismyipaddress.vercel.app
+    https://whatismyipaddressinfo.vercel.app/
 
 
 ## Screenshots
