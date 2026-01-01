@@ -67,7 +67,7 @@ export default function MapClient() {
 
           <button
             onClick={showLocation}
-            className="rounded-md bg-primary px-4 py-2 text-sm font-medium text-primary-foreground"
+            className="rounded-md bg-primary cursor-pointer px-4 py-2 text-sm font-medium text-primary-foreground"
           >
             Show on Map
           </button>

@@ -1,8 +1,16 @@
 "use client";
 
 import { useEffect, useState } from "react";
-import MapsPage from "./maps/page";
-import MapClient from "@/components/MapClient";
+import dynamic from "next/dynamic";
+// Removed unused import: import MapsPage from "./maps/page";
+
+// FIX: Import MapClient dynamically with ssr: false to prevent window errors
+const MapClient = dynamic(() => import("@/components/MapClient"), {
+  ssr: false,
+  loading: () => (
+    <div className="h-96 w-full bg-muted rounded-lg animate-pulse" />
+  ),
+});
 
 export default function HomePage() {
   const [loading, setLoading] = useState(true);

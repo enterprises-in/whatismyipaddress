@@ -26,9 +26,11 @@ WhatIsMyIPAddress is a simple and lightweight project designed to quickly detect
 
 ## Screenshots
 
-public/screenshot/screen1.png
-public/screenshot/screen2.png
-public/screenshot/screen3.png
+[public/screenshot/screen1.png](https://github.com/enterprises-in/whatismyipaddress/blob/main/public/screenshot/screen1.png)
+
+[public/screenshot/screen2.png](https://github.com/enterprises-in/whatismyipaddress/blob/main/public/screenshot/screen2.png)
+
+[public/screenshot/screen3.png](https://github.com/enterprises-in/whatismyipaddress/blob/main/public/screenshot/screen3.png)
 
 
   
@@ -45,9 +47,6 @@ Please adhere to this project's `code of conduct`.
 
 If you have any feedback, please reach out to us at https://www.whatismyipaddress.vercel.app/contact-us
 
-
-## 🚀 About Me
-I'm a full stack developer...
 
 
 ## Run Locally
@@ -81,4 +80,7 @@ Start the server
 
 For support or buy me a coffee, 
 https://buymeacoffee.com/enterprises.in
+
+## 🚀 About Me
+I'm a full stack developer...
 
