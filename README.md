@@ -79,8 +79,17 @@ Start the server
 ## Support
 
 For support or buy me a coffee, 
-https://buymeacoffee.com/enterprises.in
+https://buymeacoffee.com/developer.vikki                
 
 ## 🚀 About Me
-I'm a full stack developer...
+
+    Hi! I’m Vikki, a developer who enjoys building websites and cross-platform applications.
+    
+    This website is completely free to use, with no advertisements or promotions. My goal is to keep it open, simple, and accessible for everyone.
+    
+    If you find this project helpful and would like to support its development, you can consider buying me a coffee or making a small donation. Your support helps cover domain costs, hosting, and future improvements—while keeping everything free for users.
+    
+    If you are a developer or security researcher, I warmly welcome your suggestions, feature requests, or pull requests. Contributions and feedback are always appreciated.
+    
+    Thank you for visiting, using, and supporting this project. 🙏
 
