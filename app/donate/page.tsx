@@ -4,7 +4,7 @@ import Image from "next/image";
 import { useState } from "react";
 
 /* ---------------- SUPPORT LINK ---------------- */
-const BMC_LINK = "https://buymeacoffee.com/enterprises.in";
+const BMC_LINK = "https://buymeacoffee.com/developer.vikki";
 
 /* ---------------- MOCK SUPPORTERS ---------------- */
 const SUPPORTERS = Array.from({ length: 15 }).map((_, i) => ({
